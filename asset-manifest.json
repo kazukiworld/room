@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/room/static/css/main.f471ef79.chunk.css",
+    "main.css": "/room/static/css/main.34e00c0c.chunk.css",
     "main.js": "/room/static/js/main.e3a75673.chunk.js",
     "main.js.map": "/room/static/js/main.e3a75673.chunk.js.map",
     "runtime-main.js": "/room/static/js/runtime-main.221552b8.js",
@@ -10,7 +10,7 @@
     "static/js/3.dfb99634.chunk.js": "/room/static/js/3.dfb99634.chunk.js",
     "static/js/3.dfb99634.chunk.js.map": "/room/static/js/3.dfb99634.chunk.js.map",
     "index.html": "/room/index.html",
-    "static/css/main.f471ef79.chunk.css.map": "/room/static/css/main.f471ef79.chunk.css.map",
+    "static/css/main.34e00c0c.chunk.css.map": "/room/static/css/main.34e00c0c.chunk.css.map",
     "static/js/2.fa2f72d7.chunk.js.LICENSE.txt": "/room/static/js/2.fa2f72d7.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/btncurrent.57af0a8c.gltf": "/room/static/media/btncurrent.57af0a8c.gltf",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.221552b8.js",
     "static/js/2.fa2f72d7.chunk.js",
-    "static/css/main.f471ef79.chunk.css",
+    "static/css/main.34e00c0c.chunk.css",
     "static/js/main.e3a75673.chunk.js"
   ]
 }
