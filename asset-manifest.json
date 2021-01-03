@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/room/static/css/main.4a06e503.chunk.css",
+    "main.css": "/room/static/css/main.c82015ab.chunk.css",
     "main.js": "/room/static/js/main.269fa6c7.chunk.js",
     "main.js.map": "/room/static/js/main.269fa6c7.chunk.js.map",
     "runtime-main.js": "/room/static/js/runtime-main.a96d3d95.js",
@@ -12,7 +12,7 @@
     "static/js/3.aa281287.chunk.js.map": "/room/static/js/3.aa281287.chunk.js.map",
     "index.html": "/room/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/room/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.4a06e503.chunk.css.map": "/room/static/css/main.4a06e503.chunk.css.map",
+    "static/css/main.c82015ab.chunk.css.map": "/room/static/css/main.c82015ab.chunk.css.map",
     "static/js/2.5a4135af.chunk.js.LICENSE.txt": "/room/static/js/2.5a4135af.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/btncurrent.57af0a8c.gltf": "/room/static/media/btncurrent.57af0a8c.gltf",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.a96d3d95.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.5a4135af.chunk.js",
-    "static/css/main.4a06e503.chunk.css",
+    "static/css/main.c82015ab.chunk.css",
     "static/js/main.269fa6c7.chunk.js"
   ]
 }
