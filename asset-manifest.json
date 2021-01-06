@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/room/static/css/main.b4aacdb9.chunk.css",
-    "main.js": "/room/static/js/main.cb05471e.chunk.js",
-    "main.js.map": "/room/static/js/main.cb05471e.chunk.js.map",
-    "runtime-main.js": "/room/static/js/runtime-main.d239931e.js",
-    "runtime-main.js.map": "/room/static/js/runtime-main.d239931e.js.map",
+    "main.css": "/room/static/css/main.d360622f.chunk.css",
+    "main.js": "/room/static/js/main.fbac59a1.chunk.js",
+    "main.js.map": "/room/static/js/main.fbac59a1.chunk.js.map",
+    "runtime-main.js": "/room/static/js/runtime-main.4841fd31.js",
+    "runtime-main.js.map": "/room/static/js/runtime-main.4841fd31.js.map",
     "static/css/2.31461e4f.chunk.css": "/room/static/css/2.31461e4f.chunk.css",
-    "static/js/2.64dbefa6.chunk.js": "/room/static/js/2.64dbefa6.chunk.js",
-    "static/js/2.64dbefa6.chunk.js.map": "/room/static/js/2.64dbefa6.chunk.js.map",
-    "static/js/3.75a7a10d.chunk.js": "/room/static/js/3.75a7a10d.chunk.js",
-    "static/js/3.75a7a10d.chunk.js.map": "/room/static/js/3.75a7a10d.chunk.js.map",
+    "static/js/2.a0dee0f5.chunk.js": "/room/static/js/2.a0dee0f5.chunk.js",
+    "static/js/2.a0dee0f5.chunk.js.map": "/room/static/js/2.a0dee0f5.chunk.js.map",
+    "static/js/3.f7bcebc6.chunk.js": "/room/static/js/3.f7bcebc6.chunk.js",
+    "static/js/3.f7bcebc6.chunk.js.map": "/room/static/js/3.f7bcebc6.chunk.js.map",
     "index.html": "/room/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/room/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.b4aacdb9.chunk.css.map": "/room/static/css/main.b4aacdb9.chunk.css.map",
-    "static/js/2.64dbefa6.chunk.js.LICENSE.txt": "/room/static/js/2.64dbefa6.chunk.js.LICENSE.txt",
+    "static/css/main.d360622f.chunk.css.map": "/room/static/css/main.d360622f.chunk.css.map",
+    "static/js/2.a0dee0f5.chunk.js.LICENSE.txt": "/room/static/js/2.a0dee0f5.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/Kazukisworldimage.61cdc135.png": "/room/static/media/Kazukisworldimage.61cdc135.png",
     "static/media/Profile.4a2b737a.jpg": "/room/static/media/Profile.4a2b737a.jpg",
@@ -29,10 +29,10 @@
     "static/media/room2.d3e3a15c.gltf": "/room/static/media/room2.d3e3a15c.gltf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d239931e.js",
+    "static/js/runtime-main.4841fd31.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.64dbefa6.chunk.js",
-    "static/css/main.b4aacdb9.chunk.css",
-    "static/js/main.cb05471e.chunk.js"
+    "static/js/2.a0dee0f5.chunk.js",
+    "static/css/main.d360622f.chunk.css",
+    "static/js/main.fbac59a1.chunk.js"
   ]
 }
