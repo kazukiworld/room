@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/room/static/css/main.d360622f.chunk.css",
-    "main.js": "/room/static/js/main.815ab757.chunk.js",
-    "main.js.map": "/room/static/js/main.815ab757.chunk.js.map",
-    "runtime-main.js": "/room/static/js/runtime-main.d239931e.js",
-    "runtime-main.js.map": "/room/static/js/runtime-main.d239931e.js.map",
-    "static/css/2.31461e4f.chunk.css": "/room/static/css/2.31461e4f.chunk.css",
-    "static/js/2.92b66067.chunk.js": "/room/static/js/2.92b66067.chunk.js",
-    "static/js/2.92b66067.chunk.js.map": "/room/static/js/2.92b66067.chunk.js.map",
-    "static/js/3.75a7a10d.chunk.js": "/room/static/js/3.75a7a10d.chunk.js",
-    "static/js/3.75a7a10d.chunk.js.map": "/room/static/js/3.75a7a10d.chunk.js.map",
+    "main.css": "/room/static/css/main.9eb1563d.chunk.css",
+    "main.js": "/room/static/js/main.5a990e45.chunk.js",
+    "main.js.map": "/room/static/js/main.5a990e45.chunk.js.map",
+    "runtime-main.js": "/room/static/js/runtime-main.e91fa32f.js",
+    "runtime-main.js.map": "/room/static/js/runtime-main.e91fa32f.js.map",
+    "static/js/2.095cfa58.chunk.js": "/room/static/js/2.095cfa58.chunk.js",
+    "static/js/2.095cfa58.chunk.js.map": "/room/static/js/2.095cfa58.chunk.js.map",
+    "static/js/3.73ced15b.chunk.js": "/room/static/js/3.73ced15b.chunk.js",
+    "static/js/3.73ced15b.chunk.js.map": "/room/static/js/3.73ced15b.chunk.js.map",
     "index.html": "/room/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/room/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.d360622f.chunk.css.map": "/room/static/css/main.d360622f.chunk.css.map",
-    "static/js/2.92b66067.chunk.js.LICENSE.txt": "/room/static/js/2.92b66067.chunk.js.LICENSE.txt",
+    "static/css/main.9eb1563d.chunk.css.map": "/room/static/css/main.9eb1563d.chunk.css.map",
+    "static/js/2.095cfa58.chunk.js.LICENSE.txt": "/room/static/js/2.095cfa58.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/Kazukisworldimage.61cdc135.png": "/room/static/media/Kazukisworldimage.61cdc135.png",
     "static/media/Profile.4a2b737a.jpg": "/room/static/media/Profile.4a2b737a.jpg",
@@ -30,13 +28,13 @@
     "static/media/linkinstagram.9e1da785.gltf": "/room/static/media/linkinstagram.9e1da785.gltf",
     "static/media/linkjournal.a525df41.gltf": "/room/static/media/linkjournal.a525df41.gltf",
     "static/media/linkyoutube.16af1479.gltf": "/room/static/media/linkyoutube.16af1479.gltf",
+    "static/media/oneanother.69daecac.png": "/room/static/media/oneanother.69daecac.png",
     "static/media/room2.d3e3a15c.gltf": "/room/static/media/room2.d3e3a15c.gltf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d239931e.js",
-    "static/css/2.31461e4f.chunk.css",
-    "static/js/2.92b66067.chunk.js",
-    "static/css/main.d360622f.chunk.css",
-    "static/js/main.815ab757.chunk.js"
+    "static/js/runtime-main.e91fa32f.js",
+    "static/js/2.095cfa58.chunk.js",
+    "static/css/main.9eb1563d.chunk.css",
+    "static/js/main.5a990e45.chunk.js"
   ]
 }
