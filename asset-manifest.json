@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/room/static/css/main.ebb49f37.chunk.css",
-    "main.js": "/room/static/js/main.3d28915a.chunk.js",
-    "main.js.map": "/room/static/js/main.3d28915a.chunk.js.map",
+    "main.css": "/room/static/css/main.7863d99a.chunk.css",
+    "main.js": "/room/static/js/main.33d7e7e3.chunk.js",
+    "main.js.map": "/room/static/js/main.33d7e7e3.chunk.js.map",
     "runtime-main.js": "/room/static/js/runtime-main.d239931e.js",
     "runtime-main.js.map": "/room/static/js/runtime-main.d239931e.js.map",
     "static/js/2.4ba07a57.chunk.js": "/room/static/js/2.4ba07a57.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.75a7a10d.chunk.js": "/room/static/js/3.75a7a10d.chunk.js",
     "static/js/3.75a7a10d.chunk.js.map": "/room/static/js/3.75a7a10d.chunk.js.map",
     "index.html": "/room/index.html",
-    "static/css/main.ebb49f37.chunk.css.map": "/room/static/css/main.ebb49f37.chunk.css.map",
+    "static/css/main.7863d99a.chunk.css.map": "/room/static/css/main.7863d99a.chunk.css.map",
     "static/js/2.4ba07a57.chunk.js.LICENSE.txt": "/room/static/js/2.4ba07a57.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/AtomicHabits.f56065bb.jpg": "/room/static/media/AtomicHabits.f56065bb.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.d239931e.js",
     "static/js/2.4ba07a57.chunk.js",
-    "static/css/main.ebb49f37.chunk.css",
-    "static/js/main.3d28915a.chunk.js"
+    "static/css/main.7863d99a.chunk.css",
+    "static/js/main.33d7e7e3.chunk.js"
   ]
 }
