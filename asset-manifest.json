@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/room/static/css/main.d7e30f08.chunk.css",
-    "main.js": "/room/static/js/main.6611c88e.chunk.js",
-    "main.js.map": "/room/static/js/main.6611c88e.chunk.js.map",
+    "main.js": "/room/static/js/main.ff667e80.chunk.js",
+    "main.js.map": "/room/static/js/main.ff667e80.chunk.js.map",
     "runtime-main.js": "/room/static/js/runtime-main.d239931e.js",
     "runtime-main.js.map": "/room/static/js/runtime-main.d239931e.js.map",
-    "static/js/2.bfff6663.chunk.js": "/room/static/js/2.bfff6663.chunk.js",
-    "static/js/2.bfff6663.chunk.js.map": "/room/static/js/2.bfff6663.chunk.js.map",
+    "static/js/2.4ba07a57.chunk.js": "/room/static/js/2.4ba07a57.chunk.js",
+    "static/js/2.4ba07a57.chunk.js.map": "/room/static/js/2.4ba07a57.chunk.js.map",
     "static/js/3.75a7a10d.chunk.js": "/room/static/js/3.75a7a10d.chunk.js",
     "static/js/3.75a7a10d.chunk.js.map": "/room/static/js/3.75a7a10d.chunk.js.map",
     "index.html": "/room/index.html",
     "static/css/main.d7e30f08.chunk.css.map": "/room/static/css/main.d7e30f08.chunk.css.map",
-    "static/js/2.bfff6663.chunk.js.LICENSE.txt": "/room/static/js/2.bfff6663.chunk.js.LICENSE.txt",
+    "static/js/2.4ba07a57.chunk.js.LICENSE.txt": "/room/static/js/2.4ba07a57.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/AtomicHabits.f56065bb.jpg": "/room/static/media/AtomicHabits.f56065bb.jpg",
     "static/media/Kazukisworldimage.61cdc135.png": "/room/static/media/Kazukisworldimage.61cdc135.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d239931e.js",
-    "static/js/2.bfff6663.chunk.js",
+    "static/js/2.4ba07a57.chunk.js",
     "static/css/main.d7e30f08.chunk.css",
-    "static/js/main.6611c88e.chunk.js"
+    "static/js/main.ff667e80.chunk.js"
   ]
 }
