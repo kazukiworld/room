@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/room/static/css/main.3b5d3191.chunk.css",
-    "main.js": "/room/static/js/main.1657f21e.chunk.js",
-    "main.js.map": "/room/static/js/main.1657f21e.chunk.js.map",
+    "main.js": "/room/static/js/main.58b00d6b.chunk.js",
+    "main.js.map": "/room/static/js/main.58b00d6b.chunk.js.map",
     "runtime-main.js": "/room/static/js/runtime-main.d239931e.js",
     "runtime-main.js.map": "/room/static/js/runtime-main.d239931e.js.map",
     "static/js/2.4ba07a57.chunk.js": "/room/static/js/2.4ba07a57.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/3dtouchlogo.2df8817b.png": "/room/static/media/3dtouchlogo.2df8817b.png",
     "static/media/AtomicHabits.f56065bb.jpg": "/room/static/media/AtomicHabits.f56065bb.jpg",
     "static/media/Kazukisworldimage.61cdc135.png": "/room/static/media/Kazukisworldimage.61cdc135.png",
+    "static/media/MeicPicture.00479198.PNG": "/room/static/media/MeicPicture.00479198.PNG",
     "static/media/Naoko.75fe1063.jpg": "/room/static/media/Naoko.75fe1063.jpg",
     "static/media/Profile.4a2b737a.jpg": "/room/static/media/Profile.4a2b737a.jpg",
     "static/media/btncurrent.57af0a8c.gltf": "/room/static/media/btncurrent.57af0a8c.gltf",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.d239931e.js",
     "static/js/2.4ba07a57.chunk.js",
     "static/css/main.3b5d3191.chunk.css",
-    "static/js/main.1657f21e.chunk.js"
+    "static/js/main.58b00d6b.chunk.js"
   ]
 }
