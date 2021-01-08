@@ -1,0 +1,63 @@
+
+.helpModalView{
+    position: relative;
+    z-index: 3;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.helpModal{
+    background-color: rgb(0, 14, 31,0.9);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.closeIcons{
+    position: fixed;
+    z-index: 2;
+    bottom: 0%;
+    right: 0%;
+    height: auto;
+    width: 16%;
+    border-radius: 50%;
+    background-color: rgb(241, 253, 255);
+    margin: 1rem;
+    max-width: 6rem;
+}
+
+.helpcontent{
+    display: grid;
+    justify-content: center;
+    text-align: left;
+    font-size: 2.2vh;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 50rem;
+    margin-top: 44px;
+    margin-bottom: 66px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.helptext{
+    color: aliceblue;
+    font-size: 2.6vh;
+    text-align: center;
+}
+
+.helpicons{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

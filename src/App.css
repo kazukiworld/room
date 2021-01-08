@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
+.App{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+Canvas{
+    z-index: 1;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    cursor:pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.background2 {
+    position: fixed;
+    z-index: 3;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.background3 {
+    background-color: rgb(0, 14, 31,1);
+    height: 100vh;
+    width: 100vw;
 }
 
-.App-link {
-  color: #61dafb;
+
+.exit{
+    cursor: pointer;
+    z-index: 5;
+    color: rgb(0, 37, 80);
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+    width: 14rem;
+    font-size: 1.4rem;
+    border-radius: 1rem;
+    margin: auto;
+    order: 2;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+img{
+    height: 20rem;
+    width: auto;
+}
+
+.img2{
+    position:fixed;
+    z-index: 2;
+    bottom: 0%;
+    right: 0%;
+    height: auto;
+    width: 16%;
+    border-radius: 50%;
+    background-color: rgb(241, 253, 255);
+    margin: 1rem;
+    max-width: 6rem;
 }

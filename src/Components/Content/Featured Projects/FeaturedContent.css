@@ -1,0 +1,171 @@
+.webdevSlide {
+  position: absolute;
+  margin-top: 4%;
+  font-size: 2vh;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-right: 1.2rem;
+  padding-left: 1.2rem;
+  max-width: 50rem;
+  margin-top: 44px;
+  margin-bottom: 66px;
+}
+
+.animationSlide {
+  position: absolute;
+  margin-top: 4%;
+  font-size: 2vh;
+  overflow: hidden;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-right: 1.2rem;
+  padding-left: 1.2rem;
+  max-width: 50rem;
+  margin-top: 44px;
+  margin-bottom: 66px;
+}
+
+.buttonBar {
+  position: fixed;
+  z-index: 7;
+  width: 100%;
+  background-color: rgb(0, 11, 71);
+  height: 6vh;
+  top: 9vh;
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.webdevButton {
+  color: white;
+  height: 100%;
+  width: 25rem;
+  margin-left: auto;
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  font-size: 2.2vh;
+}
+
+.animationButton {
+  color: white;
+  height: 100%;
+  width: 25rem;
+  margin-right: auto;
+  text-align: center;
+  border-bottom: 0px solid pink;
+  cursor: pointer;
+  overflow: hidden;
+  font-size: 2.2vh;
+}
+
+.contentBlock {
+  position: relative;
+}
+
+/* Anmation */
+:root {
+ --speed: 500ms; 
+  }
+
+  .underline{
+    position: absolute;
+    border-bottom:4px solid pink;
+    width: 50%;
+    display: flex;
+    overflow: hidden;
+    bottom: 0%;
+
+}
+
+.underline-enter{
+  margin-left: 50%;
+}
+
+.underline-enter-active{
+  margin-left: 0%;
+  transition: margin-left var(--speed) ease;
+}
+
+.underline-exit-active{
+  margin-left: 50%;
+  transition: margin-left var(--speed) ease;
+
+}
+
+
+.underline2{
+  position: absolute;
+  border-bottom:4px solid pink;
+  width: 50%;
+  display: flex;
+  overflow: hidden;
+  bottom: 0%;
+  right: 0%;
+  
+}
+
+.underline2-enter{
+  margin-right: 50%;
+}
+
+.underline2-enter-active{
+  margin-right: 0%;
+  transition: margin-right var(--speed) ease;
+}
+
+.underline2-exit-active{
+  margin-right: 50%;
+  transition: margin-right var(--speed) ease;
+
+}
+
+.slideAnimation-enter {
+    position: absolute;
+    transform: translateX(-260%);
+    overflow: hidden;
+    opacity: 0;
+  }
+  .slideAnimation-enter-active {
+    transform: translateX(0%);
+    transition: all var(--speed) ease;
+    opacity: 1;
+
+  }
+  .slideAnimation-exit {
+    position: absolute;
+  }
+  .slideAnimation-exit-active {
+    transform: translateX(-260%);
+    transition: all var(--speed) ease;
+    opacity: 0;
+  }
+  
+  
+  .slideAnimation2-enter {
+    position: absolute;
+    transform: translateX(260%);
+    opacity: 0;
+    
+  }
+  .slideAnimation2-enter-active {
+    transform: translateX(0%);
+    transition: all var(--speed) ease;
+    opacity: 1;
+   
+  }
+  .slideAnimation2-exit {
+    position: absolute;
+  }
+  .slideAnimation2-exit-active {
+    transform: translateX(260%);
+    transition: all var(--speed) ease;
+    opacity: 0;
+    position: absolute;
+  }
+  /* Anmation */

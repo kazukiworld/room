@@ -1,0 +1,127 @@
+
+
+.miniModal{
+    position: absolute;
+    z-index: 6;
+    justify-content: center;
+    text-align: center;
+    top: 20%;
+    transform: translate(-50%,-50%);
+    height: 40%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 40rem;
+    border-radius: 0 0 1rem 1rem;
+    padding: 0%;
+}
+
+.bottomBars{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-size: 2.6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    z-index: 7;
+    bottom: 0%;
+    font-weight: 400;
+    cursor: pointer;
+    color: rgb(255, 167, 181);
+    border-radius: 0px 0px 1rem 1rem;
+}
+
+.Modals{
+    position: absolute;
+    z-index: 6;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 88%;
+    width: 100%;
+    background-color: white;
+    padding-top: 3rem;
+    border-radius: 0 0 2rem 2rem;
+}
+
+
+.Modals::-webkit-scrollbar{
+    width: 1vw;
+  }
+  
+.Modals::-webkit-scrollbar-track{
+    background: rgb(220, 247, 255);
+  }
+  
+.Modals::-webkit-scrollbar-thumb{
+    background:rgb(255, 73, 149);
+  }
+  
+
+
+.topBars{
+    position: absolute;
+    z-index: 7;
+    top: 0%;
+    display: flex;
+    justify-content: center;
+    height: 7vh;
+    padding: 0.2rem;
+    padding-top: 0.6rem;
+    margin: 0%;
+    width: 100%;
+    background-color:rgb(255, 117, 170);
+}
+
+.titles2{
+    text-align: center;
+    width: 100%;
+    font-size: 3vh;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+
+.text2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 2.2vh;
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+    max-width: 50rem;
+}
+
+/* animation */
+/* .miniModal-enter{
+    position: absolute;
+    transform: translateY(40%);
+    overflow: hidden;
+    opacity: 0;
+}
+
+.miniModal-enter-active{
+    transform: translateY(0%);
+    transition: all var(--speed) ease;
+    opacity: 1;
+
+}
+
+.miniModal-exit{
+    position:absolute;
+
+}
+
+.miniModal-exit-active{
+    position: absolute;
+    transform: translateY(40%);
+    overflow: hidden;
+    opacity: 0;
+} */
