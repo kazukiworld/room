@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0def41b.chunk.css",
+    "main.css": "/static/css/main.c2cccb83.chunk.css",
     "main.js": "/static/js/main.26f9aac0.chunk.js",
     "main.js.map": "/static/js/main.26f9aac0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32b30841.js",
@@ -10,7 +10,7 @@
     "static/js/3.75a7a10d.chunk.js": "/static/js/3.75a7a10d.chunk.js",
     "static/js/3.75a7a10d.chunk.js.map": "/static/js/3.75a7a10d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d0def41b.chunk.css.map": "/static/css/main.d0def41b.chunk.css.map",
+    "static/css/main.c2cccb83.chunk.css.map": "/static/css/main.c2cccb83.chunk.css.map",
     "static/js/2.4ba07a57.chunk.js.LICENSE.txt": "/static/js/2.4ba07a57.chunk.js.LICENSE.txt",
     "static/media/3dtouchlogo.2df8817b.png": "/static/media/3dtouchlogo.2df8817b.png",
     "static/media/AtomicHabits.f56065bb.jpg": "/static/media/AtomicHabits.f56065bb.jpg",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.32b30841.js",
     "static/js/2.4ba07a57.chunk.js",
-    "static/css/main.d0def41b.chunk.css",
+    "static/css/main.c2cccb83.chunk.css",
     "static/js/main.26f9aac0.chunk.js"
   ]
 }
